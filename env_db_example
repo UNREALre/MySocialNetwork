@@ -1,0 +1,4 @@
+#Database
+POSTGRES_DB=socio_network
+POSTGRES_USER=socio_user
+POSTGRES_PASSWORD=socio_user_321

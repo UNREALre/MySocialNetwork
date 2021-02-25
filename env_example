@@ -1,0 +1,16 @@
+DEBUG=True
+SECRET_KEY="your_key_goes_here"
+DJANGO_ALLOWED_HOSTS="localhost 127.0.0.1"
+DJANGO_SUPERUSER_USERNAME=admin
+DJANGO_SUPERUSER_EMAIL=admin@socio-network.com
+DJANGO_SUPERUSER_PASSWORD=test
+
+SQL_DATABASE=socio_network
+SQL_USER=socio_user
+SQL_PASSWORD=socio_user_321
+SQL_HOST=db
+SQL_PORT=5432
+DATABASE=postgres
+
+EMAIL_VERIFY_ON=False
+HUNTER_IO_API_KEY=test123
